@@ -41,6 +41,10 @@ The list of application’s services is defined as follows:
 ## 2. Building PaaS components
 ### 2.1. Kubernetes
 ### 2.2. Container Registry
+### 2.3. Argo CD
+
+![alt text for screen readers](../fptcloud-samples/images/ci-cd-pineline.png "PaaS CI/CD")
+
 ### 2.3. Kafka
 ### 2.4. Mysql
 ### 2.5. Redis
